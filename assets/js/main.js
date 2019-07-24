@@ -1,145 +1,145 @@
 const gallery = [
   {
-    "id": 001,
+    "id": 1,
     "image": "66784868_10157563789111180_787131483742535680_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 002,
+    "id": 2,
     "image": "67026241_10157563789246180_333276607332483072_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 003,
+    "id": 3,
     "image": "67048710_10157563789376180_1803840595932741632_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 004,
+    "id": 4,
     "image": "66772416_10157563789976180_8526035696362717184_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 005,
+    "id": 5,
     "image": "67098420_10157563790436180_6364629748663975936_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 006,
+    "id": 6,
     "image": "67479444_10157563790936180_514391061762670592_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 007,
+    "id": 7,
     "image": "67264048_10157563791556180_3474623856654680064_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 008,
+    "id": 8,
     "image": "66860129_10157563791981180_2973302582237200384_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 009,
+    "id": 9,
     "image": "66990516_10157563792586180_5513468200982937600_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 010,
+    "id": 10,
     "image": "66913640_10157563792786180_5384924902170034176_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 011,
+    "id": 11,
     "image": "67401813_10157563792981180_6253964474558971904_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 012,
+    "id": 12,
     "image": "67198502_10157563793116180_6759559043867475968_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 013,
+    "id": 13,
     "image": "67648093_488968975252797_2320456931791077376_n.jpg",
     "student": "@Rishi S Rao"
   }, {
-    "id": 014,
+    "id": 14,
     "image": "66466844_10157544475686180_5866344294570262528_n.jpg",
     "student": "@Droid"
   }, {
-    "id": 015,
+    "id": 15,
     "image": "66426657_10157544477531180_6319862256565747712_n.jpg",
     "student": "@Droid"
   }, {
-    "id": 016,
+    "id": 16,
     "image": "66654888_10219711806129727_4292988845084901376_n.jpg",
     "student": "Akash Antony",
     "description": "Style Transfer Image — at Sächsische Schweiz, Bastei."
   }, {
-    "id": 017,
+    "id": 17,
     "image": "67148790_10157563782631180_578922296845008896_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 018,
+    "id": 18,
     "image": "67294054_10157563788941180_3130105975583801344_n.jpg",
     "student": "@George Christopoulos"
   }, {
-    "id": 019,
+    "id": 19,
     "image": "67324920_10157023383668127_8905717209125355520_n.jpg",
     "student": "Elena Kutanov",
     "description": "Grand Canyon in Malibu style"
   }, {
-    "id": 020,
+    "id": 20,
     "image": "67350614_488968495252845_3267965655462182912_n.jpg",
     "student": "@Rishi S Rao"
   }, {
-    "id": 021,
+    "id": 21,
     "image": "67122960_3043216425719262_6790488499230343168_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 022,
+    "id": 22,
     "image": "67188625_3043218142385757_3232383380423180288_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 023,
+    "id": 23,
     "image": "67297169_3043219139052324_4597969177079185408_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 024,
+    "id": 24,
     "image": "67086504_3043220359052202_3529770141518659584_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 025,
+    "id": 25,
     "image": "67243502_3043221289052109_769185753170182144_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 026,
+    "id": 26,
     "image": "67186148_3043228202384751_3011656773334466560_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 027,
+    "id": 27,
     "image": "67427522_3043229522384619_3143776104867692544_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 028,
+    "id": 28,
     "image": "67241804_3043230129051225_1346571409500930048_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 029,
+    "id": 29,
     "image": "67171990_3043230905717814_1318584500657061888_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 030,
+    "id": 30,
     "image": "67237837_3043231819051056_2328263129340837888_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 031,
+    "id": 31,
     "image": "67279904_3043232439050994_5928328566801432576_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 032,
+    "id": 32,
     "image": "67118373_3043233149050923_4935075396296114176_n.jpg",
     "student": "team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)"
   }, {
-    "id": 033,
+    "id": 33,
     "image": "67415842_10216620614642671_2538340060076441600_n.jpg",
-    "student": "Xenakis Karamanos‎"
+    "student": "Xenakis Karamanos"
   }, {
-    "id": 034,
+    "id": 34,
     "image": "67064005_10156641323568391_5446607298329837568_n.jpg",
     "student": "Anju Mercian-Alphonse"
   }]
 
-console.log(gallery);
+//console.log(gallery);
 
 
 var i;
@@ -168,6 +168,7 @@ for (i = 0; i < gallery.length; i++) {
   img.setAttribute('alt', 'AI-generated image');
   
   // create div with class desc
+  
   var div_ballot = document.createElement('div');
   div_ballot.setAttribute('class', 'desc');
   var ballot = document.createTextNode(gallery[i].id);
