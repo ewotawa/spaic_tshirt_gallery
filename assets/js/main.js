@@ -137,6 +137,26 @@ const gallery = [
     "id": 34,
     "image": "67064005_10156641323568391_5446607298329837568_n.jpg",
     "student": "Anju Mercian-Alphonse"
+  }, {
+    "id": 35,
+    "image": "67431269_2613402908692812_5087633721276760064_n.jpg",
+    "student": "Siddharth Srivastava"
+  }, {
+    "id": 36,
+    "image": "67454351_2613402972026139_2707611125008039936_n.jpg",
+    "student": "Siddharth Srivastava"
+  }, {
+    "id": 37,
+    "image": "67564671_2613403008692802_5616531992859377664_n.jpg",
+    "student": "Siddharth Srivastava"
+  }, {
+    "id": 38,
+    "image": "67402897_2422085064551313_8427376737045708800_n.jpg",
+    "student": "team *unstoppable* (@Agata [OR, USA] , @Anju Mercian and Sridhar Ethiraj"
+  }, {
+    "id": 39,
+    "image": "67274494_2613402872026149_2970268200727478272_n.jpg",
+    "student": "Siddharth Srivastava"
   }]
 
 //console.log(gallery);
