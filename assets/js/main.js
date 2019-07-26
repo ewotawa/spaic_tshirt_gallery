@@ -157,7 +157,41 @@ const gallery = [
     "id": 39,
     "image": "67274494_2613402872026149_2970268200727478272_n.jpg",
     "student": "Siddharth Srivastava"
-  }]
+  }, {
+    "id": 40,
+    "image": "67294043_2329985237260766_9009721972501774336_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "This image is a little bit clearer. I forgot to save the image directly by using <https://pytorch.org/docs/stable/torchvision/utils.html> instead of taking a screen capture.This is just part of my t-shirt design. I will post my complete design in few days. Tagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 41,
+    "image": "67105833_2329999593925997_8332475801098256384_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "Another brain whose abstract features are based on the mosaic painting. Tagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 42,
+    "image": "67259180_492451734904521_4657614869682454528_n.jpg",
+    "student": "Elizabeth Wotawa",
+    "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
+  }, {
+    "id": 43,
+    "image": "67823534_492451738237854_3660646599710736384_n.jpg",
+    "student": "Elizabeth Wotawa",
+    "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
+  }, {
+    "id": 44,
+    "image": "67125634_492451778237850_7942851159872503808_n.jpg",
+    "student": "Elizabeth Wotawa",
+    "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
+  }
+]
+
+// , {
+//     "id": ,
+//     "image": "",
+//     "student": "",
+//     "description": ""
+//   }
+
 
 //console.log(gallery);
 
