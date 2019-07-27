@@ -182,6 +182,70 @@ const gallery = [
     "image": "67125634_492451778237850_7942851159872503808_n.jpg",
     "student": "Elizabeth Wotawa",
     "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
+  }, {
+    "id": 45,
+    "image": "67101241_2330636007195689_7879127632044883968_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "Human brain + electric labyrinth style\nTagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 46,
+    "image": "67266696_10157586679801180_9196662258011209728_n.jpg",
+    "student": "Droid"
+  }, {
+    "id": 47,
+    "image": "67379091_10157586689516180_7259784143846768640_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 48,
+    "image": "67590227_10157586689681180_7544497921035599872_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 49,
+    "image": "67305769_10157586696851180_8207307397392236544_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 50,
+    "image": "67722786_10157586697051180_5357986476447498240_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 51,
+    "image": "67634976_10157586697306180_1763897984195493888_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 52,
+    "image": "67179173_10157586697496180_6656509068900827136_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 53,
+    "image": "67231650_10157586697731180_7271424381392257024_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 54,
+    "image": "67318760_2330636000529023_1516584344133566464_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "Human brain + colorful mosaic style\nTagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 55,
+    "image": "67249253_2330650017194288_7324000867063955456_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "Torch Brain\nTagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 56,
+    "image": "67294932_2330671207192169_3496032705257144320_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "Cryopreserved brain :snowflake: :brain: \n(This image is not real. I generated it by transferring ice style to a brain photo.)\nThe trick: Very low errors.\nIteration 300, Style Loss: 2.519400, Content Loss: 6.059410\nTagging @Juan Carlos Kuri Pinto"
+  }, {
+    "id": 57,
+    "image": "67647416_10157586679476180_1690942166467084288_n.jpg",
+    "student": "Droid"
+  }, {
+    "id": 58,
+    "image": "67788803_10157586696436180_1581460825867026432_n.jpg",
+    "student": "George Christospoulos"
+  }, {
+    "id": 59,
+    "image": "67276022_493460498136978_7951270730291740672_n.jpg",
+    "student": "Vigneshwari"
   }
 ]
 
