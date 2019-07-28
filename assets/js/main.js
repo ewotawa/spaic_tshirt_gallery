@@ -150,102 +150,128 @@ const gallery = [
     "image": "67564671_2613403008692802_5616531992859377664_n.jpg",
     "student": "Siddharth Srivastava"
   }, {
+  //   "id": 38,
+  //   "image": "67402897_2422085064551313_8427376737045708800_n.jpg",
+  //   "student": "team *unstoppable* (@Agata [OR, USA] , @Anju Mercian and Sridhar Ethiraj"
+  // }, {
     "id": 38,
-    "image": "67402897_2422085064551313_8427376737045708800_n.jpg",
-    "student": "team *unstoppable* (@Agata [OR, USA] , @Anju Mercian and Sridhar Ethiraj"
-  }, {
-    "id": 39,
     "image": "67274494_2613402872026149_2970268200727478272_n.jpg",
     "student": "Siddharth Srivastava"
   }, {
-    "id": 40,
+    "id": 39,
     "image": "67294043_2329985237260766_9009721972501774336_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "This image is a little bit clearer. I forgot to save the image directly by using <https://pytorch.org/docs/stable/torchvision/utils.html> instead of taking a screen capture.This is just part of my t-shirt design. I will post my complete design in few days. Tagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 41,
+    "id": 40,
     "image": "67105833_2329999593925997_8332475801098256384_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "Another brain whose abstract features are based on the mosaic painting. Tagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 42,
+    "id": 41,
     "image": "67259180_492451734904521_4657614869682454528_n.jpg",
     "student": "Elizabeth Wotawa",
     "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
   }, {
-    "id": 43,
+    "id": 42,
     "image": "67823534_492451738237854_3660646599710736384_n.jpg",
     "student": "Elizabeth Wotawa",
     "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
   }, {
-    "id": 44,
+    "id": 43,
     "image": "67125634_492451778237850_7942851159872503808_n.jpg",
     "student": "Elizabeth Wotawa",
     "description": "The photos are my own; styles come from two Edward Hopper paintings: Haskell House and Cape Cod Evening."
   }, {
-    "id": 45,
+    "id": 44,
     "image": "67101241_2330636007195689_7879127632044883968_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "Human brain + electric labyrinth style\nTagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 46,
+    "id": 45,
     "image": "67266696_10157586679801180_9196662258011209728_n.jpg",
     "student": "Droid"
   }, {
-    "id": 47,
+    "id": 46,
     "image": "67379091_10157586689516180_7259784143846768640_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 48,
+    "id": 47,
     "image": "67590227_10157586689681180_7544497921035599872_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 49,
+    "id": 48,
     "image": "67305769_10157586696851180_8207307397392236544_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 50,
+    "id": 49,
     "image": "67722786_10157586697051180_5357986476447498240_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 51,
+    "id": 50,
     "image": "67634976_10157586697306180_1763897984195493888_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 52,
+    "id": 51,
     "image": "67179173_10157586697496180_6656509068900827136_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 53,
+    "id": 52,
     "image": "67231650_10157586697731180_7271424381392257024_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 54,
+    "id": 53,
     "image": "67318760_2330636000529023_1516584344133566464_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "Human brain + colorful mosaic style\nTagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 55,
+    "id": 54,
     "image": "67249253_2330650017194288_7324000867063955456_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "Torch Brain\nTagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 56,
+    "id": 55,
     "image": "67294932_2330671207192169_3496032705257144320_n.jpg",
     "student": "Juan Carlos Kuri Pinto",
     "description": "Cryopreserved brain :snowflake: :brain: \n(This image is not real. I generated it by transferring ice style to a brain photo.)\nThe trick: Very low errors.\nIteration 300, Style Loss: 2.519400, Content Loss: 6.059410\nTagging @Juan Carlos Kuri Pinto"
   }, {
-    "id": 57,
+    "id": 56,
     "image": "67647416_10157586679476180_1690942166467084288_n.jpg",
     "student": "Droid"
   }, {
-    "id": 58,
+    "id": 57,
     "image": "67788803_10157586696436180_1581460825867026432_n.jpg",
     "student": "George Christospoulos"
   }, {
-    "id": 59,
+    "id": 58,
     "image": "67276022_493460498136978_7951270730291740672_n.jpg",
     "student": "Vigneshwari"
+  }, {
+    "id": 59,
+    "image": "67404981_617262728763933_5566897783123738624_n.jpg",
+    "student": "Seeratpal Kaur"
+  }, {
+    "id": 60,
+    "image": "67473720_10157590591076180_6609307923778633728_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 61,
+    "image": "67225798_2380333545388562_7690633216914358272_n.jpg",
+    "student": "Luis Antonio Aguilar Gutiérrez"
+  }, {
+    "id": 62,
+    "image": "67168917_617308722092667_35934196069302272_n.jpg",
+    "student": "Seeratpal Kaur"
+  }, {
+    "id": 63,
+    "image": "67557886_494116991404662_2485447546416136192_n.jpg",
+    "student": "Rishi S Rao",
+    "description": "Wild Resonance"
+  }, {
+    "id": 64,
+    "image": "67294926_494118141404547_2942628973781188608_n.jpg",
+    "student": "Rishi S Rao",
+    "description": "The Roar Beyond"
   }
 ]
 
