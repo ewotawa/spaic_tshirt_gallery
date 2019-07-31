@@ -487,6 +487,468 @@ const gallery = [
     "image": "67649704_494676254682069_8056105401608830976_n.jpg",
     "student": "Samuela Anastasi",
     "description": "And here comes the second part: The same my drawings to my paintings .. a couple of them are anatomy studies although a little bit scary  Hope you like them!"
+  }, {
+    "id": 112,
+    "image": "67162219_2402374779809146_2094203994577567744_n.jpg",
+    "student": "Mircea Calincan"
+  }, {
+    "id": 113,
+    "image": "67558914_2358522657565970_1178010401447608320_n.jpg",
+    "student": "Sourav Kumar",
+    "description": "'Fiery_eyes' @sourav kumar #sg_project-t-shirt #60daysofudacity #udacityfacebookscholar"
+  // }, {
+  //   "id": ,
+  //   "image": "67406217_2432745870151899_1222202569791635456_n.jpg",
+  //   "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+  //   "description": "Kungfu panda in winter"
+  }, {
+    "id": 114,
+    "image": "67428018_2432745876818565_7222606219737825280_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Hi All"
+  }, {
+    "id": 115,
+    "image": "67455345_2432745956818557_699842002937708544_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Cat from forest"
+  }, {
+    "id": 116,
+    "image": "67371418_2432745980151888_4265553165228703744_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Super winter kitty"
+  }, {
+    "id": 117,
+    "image": "67741825_2432745990151887_7032797102233092096_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Super summer kitty"
+  }, {
+    "id": 118,
+    "image": "67912327_2432746030151883_6276848236405719040_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Super kitty from forest"
+  }, {
+    "id": 119,
+    "image": "67410253_2432746043485215_3515847038661033984_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Super Angry kitty"
+  }, {
+    "id": 120,
+    "image": "67377702_2432746076818545_6590790541649117184_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Super Cool kitty"
+  }, {
+    "id": 121,
+    "image": "64329955_2432746123485207_6214385835530256384_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 122,
+    "image": "67568756_2432746153485204_6750814237049749504_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 123,
+    "image": "67549776_2432746180151868_2565430317187858432_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 124,
+    "image": "67651231_2432746220151864_2959097879848812544_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 125,
+    "image": "67459404_2432746240151862_8366787603336265728_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 126,
+    "image": "67324248_2432746266818526_6880315519728091136_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 127,
+    "image": "67147028_2432746313485188_4371161811127369728_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 128,
+    "image": "67806784_2432746320151854_4674182409674031104_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 129,
+    "image": "67542212_2432746340151852_8593720524067045376_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 130,
+    "image": "67414369_2432746416818511_2373804888078417920_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Fantastic Five cool mode"
+  }, {
+    "id": 131,
+    "image": "67608463_2432746430151843_9018448461283983360_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 132,
+    "image": "67495454_2432746426818510_7766247340226117632_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Fantastic five in angry mode"
+  }, {
+    "id": 133,
+    "image": "67354590_2432746520151834_6790881853810147328_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Fantastic five in Rainy"
+  }, {
+    "id": 134,
+    "image": "67565681_2432746536818499_3439257558341124096_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 135,
+    "image": "67354217_2432746610151825_963583789827620864_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 136,
+    "image": "67316969_2432746613485158_6923563452396994560_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 137,
+    "image": "67487627_2432746620151824_1006582966580674560_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 138,
+    "image": "67367743_2432746713485148_463618904736923648_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Panda in ICE mode."
+  }, {
+    "id": 139,
+    "image": "67570389_2432746746818478_8598380701022158848_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Panda in fight mode"
+  }, {
+    "id": 140,
+    "image": "67403574_2432746786818474_2127987880910389248_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Panda in hungry mode."
+  }, {
+    "id": 141,
+    "image": "67545457_2432746793485140_202074015093751808_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Panda in Fire mode"
+  }, {
+    "id": 142,
+    "image": "68304522_2344191372284808_8153305437844799488_n.jpg",
+    "student": "Mihail DM, Slack username @MihailD"
+  }, {
+    "id": 143,
+    "image": "67658678_2344191438951468_7195210517437218816_n.jpg",
+    "student": "Mihail DM, Slack username @MihailD"
+  }, {
+    "id": 144,
+    "image": "67306529_431763694081620_4662443903276810240_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 145,
+    "image": "67415814_431763744081615_7940737520566796288_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 146,
+    "image": "67603234_431763820748274_5493194847244255232_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 147,
+    "image": "67710993_431763834081606_2498730802225872896_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 148,
+    "image": "67471244_431763870748269_6485146178802417664_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 149,
+    "image": "67554656_431763944081595_4885865546509189120_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 150,
+    "image": "67735715_431764000748256_4386518715802320896_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 151,
+    "image": "67766362_431764020748254_4793711018809229312_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 152,
+    "image": "67428532_431764210748235_8899397753159811072_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 153,
+    "image": "67563741_431764237414899_5908577146078494720_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 154,
+    "image": "67346464_431764270748229_2406893045543862272_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 155,
+    "image": "67972272_431764387414884_9104066594220277760_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 156,
+    "image": "68285310_431764437414879_5243470832881106944_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 157,
+    "image": "67539978_431764510748205_4756858240904462336_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 158,
+    "image": "67568388_431764554081534_6324596431512403968_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 159,
+    "image": "67549537_431775094080480_4670745636973314048_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 160,
+    "image": "67532146_495939427889085_4932194869104869376_n.jpg",
+    "student": "Vebby"
+  }, {
+    "id": 161,
+    "image": "67329223_495942511222110_311923687794147328_n.jpg",
+    "student": "Vebby"
+  }, {
+    "id": 162,
+    "image": "67907195_495943647888663_7189678324682063872_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 163,
+    "image": "67816238_495943681221993_262856800288636928_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 164,
+    "image": "67555747_495944127888615_3150993625609928704_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 165,
+    "image": "67489760_10157598912566180_8092705089975746560_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 166,
+    "image": "67604979_10157598913051180_9023158614478553088_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 167,
+    "image": "67477679_10157598913251180_5198561340574138368_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 168,
+    "image": "68461705_10157598913476180_684262000481533952_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 169,
+    "image": "67407233_10157598913636180_8837689741815054336_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 170,
+    "image": "67802670_495946544555040_7829846739203915776_n.jpg",
+    "student": "Nirupama Singh",
+    "description": "My few images after struggling hard.."
+  }, {
+    "id": 171,
+    "image": "67403812_495946571221704_1800354813360209920_n.jpg",
+    "student": "Nirupama Singh",
+    "description": "My few images after struggling hard.."
+  }, {
+    "id": 172,
+    "image": "67820070_495946594555035_3657049306902298624_n.jpg",
+    "student": "Nirupama Singh",
+    "description": "My few images after struggling hard.."
+  }, {
+    "id": 173,
+    "image": "68412514_495947694554925_7544559858758975488_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 174,
+    "image": "67828927_495947707888257_3737166548805091328_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 175,
+    "image": "67421072_495947747888253_1300014552422809600_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 176,
+    "image": "67535346_495947794554915_3388906303815417856_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 177,
+    "image": "67767401_495947807888247_2960204117395374080_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 178,
+    "image": "67437669_495947867888241_448106294612590592_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 179,
+    "image": "67756506_10157598917521180_1108865271977738240_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 180,
+    "image": "67802687_10157598917846180_1253647090517540864_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 181,
+    "image": "67303518_10157598923671180_3148215322935296_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 182,
+    "image": "67676129_10157598924091180_2875344166445907968_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 183,
+    "image": "67761242_10157598924321180_8709440725571338240_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 184,
+    "image": "67684363_10157598924536180_4082949392233922560_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 185,
+    "image": "67323385_2453047438085101_9177440411050835968_n.jpg",
+    "student": "Bùi Thành Trung"
+  }, {
+    "id": 186,
+    "image": "67831995_2332529683672988_5505077140556611584_n.jpg",
+    "student": "Juan Carlos Kuri Pinto",
+    "description": "By using Python (a Jupyter notebook), PyTorch (style transfer), and Pillow (copy and paste images), I finished programming my first final design for the #sg_project-t-shirt competition. Its dimensions are 1300 x 2213 pixels. *To be honest, I would like to wear such t-shirt. It's beautiful.* See the photo! :brain: :party-dinosaur: :party_parrot:"
+  }, {
+    "id": 187,
+    "image": "67824066_2356192957798940_7691569296446586880_n.jpg",
+    "student": "Sourav Kumar",
+    "description": "Project : #sg_project-t-shirt  #60daysofudacity  #udacityfacebookscholar  Sourav Kumar 'Beautiful scenery'"
+  }, {
+    "id": 188,
+    "image": "67364091_2581803215380335_5710108171914182656_n.jpg",
+    "student": "Dharmendra Choudhary"
+  }, {
+    "id": 189,
+    "image": "67568376_2581803932046930_4450240602952433664_n.jpg",
+    "student": "Dharmendra Choudhary"
+  }, {
+    "id": 190,
+    "image": "67377941_2483001868425738_597292073833463808_n.jpg",
+    "student": "Mateusz Zatylny"
+  }, {
+  //   "id": ,
+  //   "image": "68249005_2402351846478106_4394958528402423808_n.jpg",
+  //   "student": "Mircea Calincan"
+  // }, {
+    "id": 191,
+    "image": "67589077_2402374776475813_8347953875390562304_n.jpg",
+    "student": "Mircea Calincan"
+  }, {
+    "id": 192,
+    "image": "67464059_2358522624232640_7613579429154914304_n.jpg",
+    "student": "Sourav Kumar",
+    "description": "'Fiery_tree' @sourav kumar sg_project-t-shirt #60daysofudacity #udacityfacebookscholar"
+  }, {
+    "id": 193,
+    "image": "67655966_2432745866818566_717768277308211200_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project.",
+    "description": "Hi from globe"
+  }, {
+    "id": 194,
+    "image": "67519308_2432777890148697_2873418393304694784_n.jpg",
+    "student": "#60daysofudacity Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj)",
+    "description": "t-shirt project on firw"
+  }, {
+    "id": 195,
+    "image": "67632222_2344191292284816_5886224040326070272_n.jpg",
+    "student": "Mihail DM, Slack username @MihailD"
+  }, {
+    "id": 196,
+    "image": "67308074_2344195475617731_2415686372607131648_n.jpg",
+    "student": "Mihail DM, Slack username @MihailD"
+  }, {
+    "id": 197,
+    "image": "67351742_431763590748297_6088176731183644672_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 198,
+    "image": "67548761_431775017413821_6433616402430558208_n.jpg",
+    "student": "Sara El-ateif"
+  }, {
+    "id": 199,
+    "image": "67461381_10156659042358391_8321495678551326720_n.jpg",
+    "student": "Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 200,
+    "image": "67799025_10156659047613391_8591800982923378688_n.jpg",
+    "student": "Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 201,
+    "image": "68357381_495939411222420_7854043859100106752_n.jpg",
+    "student": "Vebby"
+  }, {
+    "id": 202,
+    "image": "67438785_495940771222284_1336713149591584768_n.jpg",
+    "student": "@PaulBruce",
+    "description": "@PaulBruce For the Gallery - Robert Doisneau Photo with style transfer from Van Gogh"
+  }, {
+    "id": 203,
+    "image": "67314961_495941411222220_8307627254922346496_n.jpg",
+    "student": "@PaulBruce",
+    "description": "Also for the Gallery - BMW X2 with style transfer from Katsushika Hokusai's The Great Wave"
+  }, {
+    "id": 204,
+    "image": "67504217_495942471222114_1051655693414694912_n.jpg",
+    "student": "Vebby"
+  }, {
+    "id": 205,
+    "image": "67558942_495942991222062_7284855766329065472_n.jpg",
+    "student": "Vigneshwari",
+    "description": "Hi everyone! I am attaching my second project image created for #sg_project-t-shirt ( T-shirt design). It is a traditional art of Lord Krishna enjoying the love and warmth of his mother Hope you all like the image. (Image drawn by my Grandma)"
+  }, {
+    "id": 206,
+    "image": "67350984_495943637888664_2010388004148871168_n.jpg",
+    "student": "Rupesh Purum"
+  }, {
+    "id": 207,
+    "image": "67746849_495945521221809_5400748175868821504_n.jpg",
+    "student": "Antonio",
+    "description": "Hello community, here are some funny results with GANS."
+  }, {
+    "id": 208,
+    "image": "67388689_10156659072803391_6043178749665476608_n.jpg",
+    "student": "Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
+  }, {
+    "id": 209,
+    "image": "67934471_495946057888422_5026537944635146240_n.jpg",
+    "student": "Manussanun",
+    "description": "My first image with style transfer"
+  }, {
+    "id": 210,
+    "image": "67379346_10157598912116180_3253741561296453632_n.jpg",
+    "student": "Joanna Gon"
+  }, {
+    "id": 211,
+    "image": "67617117_495946537888374_3328552383989940224_n.jpg",
+    "student": "Nirupama Singh",
+    "description": "My few images after struggling hard.."
+  }, {
+    "id": 212,
+    "image": "67507628_495947651221596_8328670687707267072_n.jpg",
+    "student": "Ivy",
+    "description": "Here are the pics I tried to come up with"
+  }, {
+    "id": 213,
+    "image": "67715126_495948384554856_8423109605432754176_n.jpg",
+    "student": "Antonio",
+    "description": "Hello community, here are my new results using generative models"
+  }, {
+    "id": 214,
+    "image": "67324732_10157598923486180_8538616110839234560_n.jpg",
+    "student": "George Christopoulos"
+  }, {
+    "id": 215,
+    "image": "67940927_10156659097473391_5997707870773182464_n.jpg",
+    "student": "Project T-Shirt Contributed by team unstoppable (@Agata [OR, USA], @Anju Mercian and @Sridhar Ethiraj) as it's a team project."
   }
 ]
 
