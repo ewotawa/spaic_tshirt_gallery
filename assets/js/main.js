@@ -784,14 +784,14 @@ const gallery = [
     "image": "67437669_495947867888241_448106294612590592_n.jpg",
     "student": "Ivy",
     "description": "Here are the pics I tried to come up with"
-  }, {
-    "id": 177,
-    "image": "67756506_10157598917521180_1108865271977738240_n.jpg",
-    "student": "Rupesh Purum"
-  }, {
-    "id": 178,
-    "image": "67802687_10157598917846180_1253647090517540864_n.jpg",
-    "student": "Rupesh Purum"
+  // }, {
+  //   "id": 177,
+  //   "image": "67756506_10157598917521180_1108865271977738240_n.jpg",
+  //   "student": "Rupesh Purum"
+  // }, {
+  //   "id": 178,
+  //   "image": "67802687_10157598917846180_1253647090517540864_n.jpg",
+  //   "student": "Rupesh Purum"
   }, {
     "id": 179,
     "image": "67303518_10157598923671180_3148215322935296_n.jpg",
@@ -1538,7 +1538,8 @@ for (i = 0; i < gallery.length; i++) {
   
   var div_ballot = document.createElement('div');
   div_ballot.setAttribute('class', 'desc');
-  var ballot = document.createTextNode(gallery[i].id);
+  // var ballot = document.createTextNode(gallery[i].id);
+  var ballot = document.createTextNode(i+1);
   
   // create div with class desc
   var div_student = document.createElement('div');
