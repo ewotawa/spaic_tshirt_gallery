@@ -865,9 +865,6 @@ const gallery = [
     "student": "Angela Balyseviene",
     "description": "Andzelika Balyseviene Restyled Image 'Kavala' Project T-Shirt, using personal photo as content"
   }, {
-    "image": "67674370_2378909282178023_4196103853290029056_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
     "image": "67793115_2386624951426088_8239519561917923328_n.jpg",
     "student": "Luis Antonio Aguilar Gutiérrez"
   }, {
@@ -982,7 +979,7 @@ const gallery = [
     "image": "67875917_10157600993931180_7719815075854286848_n.jpg",
     "student": "Evi"
   }, {
-    "image": "67490907_10157600993986180_7773795212672892928_n.jpg",
+    "image": "67814526_497696541046707_960835869751640064_n.jpg",
     "student": "Evi"
   }, {
     "image": "67481427_496511017831926_9416406558834688_n.jpg",
@@ -1024,19 +1021,13 @@ const gallery = [
     "image": "67805018_496514094498285_8857467263054249984_n.jpg",
     "student": "Vebby"
   }, {
-    "image": "67440460_496516607831367_1881013006393933824_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
-    "image": "67285930_496516704498024_3787405352497053696_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
     "image": "68305420_496519861164375_5735768874930929664_n.jpg",
     "student": "Evi"
   }, {
     "image": "67768743_496519741164387_8047750019475832832_n.jpg",
     "student": "Evi"
   }, {
-    "image": "67934675_496519791164382_9057778112468615168_n.jpg",
+    "image": "67455822_496515561164805_3980133123617718272_n.jpg",
     "student": "Evi"
   }, {
     "image": "67504213_496519887831039_6621632401153982464_n.jpg",
@@ -1055,21 +1046,14 @@ const gallery = [
     "student": "Shudipto Trafder"
   }, {
     "image": "67633918_496522981164063_1572849841640308736_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
-    "image": "67586856_496523224497372_3361149295980969984_n.jpg",
+    "design": "67586856_496523224497372_3361149295980969984_n.jpg",
     "student": "Suparna S Nair"
   }, {
     "image": "68358779_496528017830226_6938890180631724032_n.jpg",
     "student": "Suparna S Nair"
   }, {
-    "image": "67389373_496528137830214_2220718952135262208_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
     "image": "67574001_496529144496780_2641463702322151424_n.jpg",
-    "student": "Suparna S Nair"
-  }, {
-    "image": "67425719_496529187830109_8847911471921758208_n.jpg",
+    "design": "67425719_496529187830109_8847911471921758208_n.jpg",
     "student": "Suparna S Nair"
   }, {
     "id": 317,
@@ -1096,10 +1080,12 @@ const gallery = [
     "description": "THE GPU IS ON FIRE! 🔥 By using Python (a Jupyter notebook), PyTorch (neural style transfer), and Pillow (to copy and paste images), I finished programming my fourth final design for the #sg_project-t-shirt competition. Its dimensions are 1250 x 1604 pixels. I would like to wear such t-shirt. I will print it anyways even if I will lose this competition. See the photo! The brain with style transfer à la blue digital world represents deep learning, PyTorch, and the secure cloud. Computers with PyTorch, OpenMined, and PySyft represent the secure cloud in which PyTorch computes important statistics about users while preserving our privacy, by using OpenMined and PySyft. The information flows between computers have zeros and ones (representing the binary code of computers), directions (representing bidirectional communications), and eyes (representing potential hackers lurking the Internet). 🧠"
   }, {
     "image": "67461845_2378917458843872_6756759313601003520_n.jpg",
+    "design": "67440460_496516607831367_1881013006393933824_n.jpg",
     "student": "Suparna S Nair",
     "description": "My first trial with style transfer! An experiment with my sister's painting. :-)"
   }, {
     "image": "67372944_2378913812177570_4957765901794410496_n.jpg",
+    "design": "67285930_496516704498024_3787405352497053696_n.jpg",
     "student": "Suparna S Nair",
     "description": "Leo - NST using PyTorch"
   }, {
@@ -1142,6 +1128,7 @@ const gallery = [
     "student": "Luis Antonio Aguilar Gutiérrez"
   }, {
     "image": "67441927_2379071448828473_852628674149613568_n.jpg",
+    "design": "67389373_496528137830214_2220718952135262208_n.jpg",
     "student": "Suparna S Nair",
     "description": "Another experiment with a neuron and city lights!"
   }, {
@@ -1241,5 +1228,26 @@ for (i = 0; i < gallery.length; i++) {
     var desc = document.createTextNode(gallery[i].description);
     div_desc.appendChild(desc).textContent;
     div_gallery.appendChild(div_desc);
+  }
+  
+  // for those gallery items with both an image and a design, create div for design image
+  if(gallery[i].design) {
+    // locate image for gallery item i
+    var path_des = "./assets/gallery_images/" + gallery[i].design
+
+    // create a with various attributes
+    var a_des = document.createElement('a');
+    a_des.setAttribute('target', "_blank");
+    a_des.setAttribute('href', "#");
+    
+    // create img
+    var img_des = document.createElement('img');
+    img_des.setAttribute('src', path_des);
+    img_des.setAttribute('alt', 'AI-generated image');
+    
+    // append a tag to gallery div
+    div_gallery.append(a_des);
+    // append img tag to a tag
+    a_des.append(img_des);
   }
 }
