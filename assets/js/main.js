@@ -189,7 +189,7 @@ const gallery = [
     "student": "Vigneshwari"
   }, {
     "image": "67404981_617262728763933_5566897783123738624_n.jpg",
-    "student": "Seeratpal Kaur"
+    "student": "Seeratpal K. Jaura"
   }, {
     "image": "67473720_10157590591076180_6609307923778633728_n.jpg",
     "student": "George Christopoulos"
@@ -198,7 +198,7 @@ const gallery = [
     "student": "Luis Antonio Aguilar Gutiérrez"
   }, {
     "image": "67168917_617308722092667_35934196069302272_n.jpg",
-    "student": "Seeratpal Kaur"
+    "student": "Seeratpal K. Jaura"
   }, {
     "image": "67557886_494116991404662_2485447546416136192_n.jpg",
     "student": "Rishi S Rao",
@@ -362,7 +362,7 @@ const gallery = [
     "student": "George Christopoulos"
   }, {
     "image": "67260193_617802808709925_86000698558251008_n.jpg",
-    "student": "Seeratpal Kaur"
+    "student": "Seeratpal K. Jaura"
   }, {
     "image": "67374946_10220088788916844_9134196167758839808_n.jpg",
     "student": "Berenice Terwey",
