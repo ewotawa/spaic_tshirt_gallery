@@ -745,9 +745,9 @@ const gallery = [
     "image": "67710987_3069361546438083_6798598273658519552_n.jpg",
     "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
   }, {
-  //   "image": "67732816_3069362193104685_7935835167585730560_n.jpg",
-  //   "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
-  // }, {
+    "image": "67732816_3069362193104685_7935835167585730560_n.jpg",
+    "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
+  }, {
     "image": "67914160_3069362203104684_8307660158666801152_n.jpg",
     "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
   }, {
@@ -766,9 +766,9 @@ const gallery = [
     "image": "67371362_3069362369771334_2871330652651782144_n.jpg",
     "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
   }, {
-  //   "image": "67875016_3069362376438000_785008236594987008_n.jpg",
-  // "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
-  // }, {
+    "image": "67875016_3069362376438000_785008236594987008_n.jpg",
+    "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
+  }, {
     "image": "67392335_3069362406437997_5619880310708633600_n.jpg",
     "student": "team unstoppable (Agata [OR, USA], Anju Mercian and Sridhar Ethiraj)",
   }, {
@@ -1139,6 +1139,18 @@ const gallery = [
     "student": "Rishi S Rao"
   }, {
     "image": "68294568_10211620464906711_6949452986976305152_n.jpg",
+    "student": "Munira Omar"
+  }, {
+    "image": "67642735_10157600948146180_722703804616671232_n.jpg",
+    "student": "Abhishek Tandon"
+  }, {
+    "image": "67367457_619490885207784_591266101573189632_n.jpg",
+    "student": "Seeratpal K. Jaura"
+  }, {
+    "image": "67366727_10211620193019914_7793965779254247424_n.jpg",
+    "student": "Munira Omar"
+  }, {
+    "image": "67632235_10211620208780308_7685247465364127744_n.jpg",
     "student": "Munira Omar"
   }
 ]
